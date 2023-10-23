@@ -1,0 +1,1 @@
+Ukázka práce s Gitem a GitHubem
